@@ -1,0 +1,8 @@
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\bin\Debug\Calculadora_CMD.exe.config
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\bin\Debug\Calculadora_CMD.exe
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\bin\Debug\Calculadora_CMD.pdb
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\obj\Debug\Calculadora_CMD.csproj.AssemblyReference.cache
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\obj\Debug\Calculadora_CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\obj\Debug\Calculadora_CMD.csproj.CoreCompileInputs.cache
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\obj\Debug\Calculadora_CMD.exe
+C:\Users\Everton\source\repos\Calculadora_CMD\Calculadora_CMD\obj\Debug\Calculadora_CMD.pdb
